@@ -24,6 +24,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'scrooloose/nerdtree'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
+Plugin 'davidhalter/jedi-vim'
 
 " Bundle 'Valloric/YouCompleteMe'
 
